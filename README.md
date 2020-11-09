@@ -1,6 +1,6 @@
 # Robotics-Software-Engineer
 
-![](Udacity_Robotics_Project2_GoChaseIt.png)
+![](rviz_screenshot_2020_11_08-22_51_56.png)
 
 ## Build Instructions
 1. Make sure you have the following installed:
